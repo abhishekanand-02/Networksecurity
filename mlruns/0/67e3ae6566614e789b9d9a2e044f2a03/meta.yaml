@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/67e3ae6566614e789b9d9a2e044f2a03/artifacts
+end_time: 1740463238141
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67e3ae6566614e789b9d9a2e044f2a03
+run_name: ambitious-dove-12
+run_uuid: 67e3ae6566614e789b9d9a2e044f2a03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740463235132
+status: 4
+tags: []
+user_id: abhishek.anand
